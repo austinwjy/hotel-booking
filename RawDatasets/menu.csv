@@ -1,0 +1,17 @@
+id|name|price|category
+0|water|2.5|drink
+1|soft-drink|3|drink
+2|beer|3.5|alcoholic-drink
+3|wine|3.5|alcoholic-drink
+4|simple-breakfast|5|breakfast
+5|french-breakfast|7|breakfast
+6|deluxe-breakfast|12|breakfast
+7|simple-lunch|5|lunch
+8|deluxe-lunch|10|lunch
+9|steak 'n stuff|18|dinner
+10|surf 'n turf|17|dinner
+11|vegetarian lasagna|16|dinner
+12|spareribs|17|dinner
+13|super soup|14|dinner
+14|coffee|3|drink
+15|tea|2.5|drink

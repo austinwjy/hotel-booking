@@ -1,0 +1,6 @@
+id|price/day|capacity|type|prefix
+1|150|3|deluxe_room|X
+2|100|3|double_room|D
+3|80|15|conference_room_small|S
+4|80|1|normal_room|N
+5|150|50|conference_room_large|L
