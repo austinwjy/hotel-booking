@@ -31,7 +31,7 @@ Product analysis - Room Utilization Rate: <br/>
 
 - <b>Performed diagnostic and prescriptive analysis by creating interactive Tableau dashboards to uncover key business insights ([dashboards.twbx](https://github.com/austinwjy/hotel-booking/blob/main/HotelBooking-dashboards.twbx)):<b>
 <p align="center">
-<img src="https://i.imgur.com/rfSLzsy.png" height="60%" width="60%" alt="metrics"/>
+<img src="https://i.imgur.com/rfSLzsy.png" height="80%" width="80%" alt="metrics"/>
 <br />
 </p>
 
