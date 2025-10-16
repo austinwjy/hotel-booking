@@ -1,7 +1,7 @@
 # Hotel Booking Performance Analysis
 
 <h2>Description</h2>
-This project focuses on 
+This project focuses on analyzing hotel booking data to uncover business insights and improve operational performance. Using Python (Pandas) for data cleaning, SQL & T-SQL for data modeling and descriptive analytics, and Tableau for visualization, the project identifies trends in booking patterns and customer behaviors, and provides actionable recommendations to optimize revenue and enhance overall hotel performance.
 
 <h2>Languages and Tools Used</h2>
 
