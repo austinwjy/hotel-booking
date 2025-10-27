@@ -39,4 +39,5 @@ Product analysis - Room Utilization Rate: <br/>
 - <b>Communicated compelling business stories by highlighting booking trends, customer behaviors, and business growth opportunities([Hotel Performance Analysis.pdf](https://github.com/austinwjy/hotel-booking/blob/main/Hotel%20Performance%20Analysis.pdf)).</b>
 
 
-
+<h2>Data Disclosure</h2>
+This project uses publicly available data.
